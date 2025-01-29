@@ -1,2 +1,3 @@
 # CV-image_classification
-basic cnn for image classification of flowerx
+Basic CNN model to classify flower images into types.
+
